@@ -9,7 +9,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Project 2. _____](_____)  
 
 ## Tasks
-* [Task 0. Data visualisation] (___)  
+* [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
 
 ---
 # Мои Data Science Проекты и Задания,
@@ -23,4 +23,4 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Проект 2. ______](_____)  
 
 ## Задания
-* [Задание 0. Визуализация данных](____)  
+* [Задание 0. Визуализация данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
