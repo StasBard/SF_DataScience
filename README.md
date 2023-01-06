@@ -6,13 +6,21 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 ## Projects
 * [Project 0. Game "Guess a number"](https://github.com/StasBard/SF_DataScience/tree/master/Projects/project_0)
 * [Project 1. Analysis of HeadHunter job positions](_____)
-* [Project 2. _____](_____)
+* [Project 2. _____](_____)  
+
+## Tasks
+* [Task 0. Data visualisation] (___)  
 
 ---
-[Go to English](https://github.com/StasBard/SF_DataScience#my-data-science-projects-and-solved-tasks) :us: 
 # Мои Data Science Проекты и Задания,
 выполненные в рамках курса [SkillFactory Data Science](https://skillfactory.ru/data-science-specialization)
+
+[Go to English](https://github.com/StasBard/SF_DataScience#my-data-science-projects-and-solved-tasks) :us: 
+
 ## Проекты
 * [Проект 0. Игра "Угадай число"](https://github.com/StasBard/SF_DataScience/tree/master/Projects/project_0)
 * [Проект 1. Анализ вакансий на HeadHunter](_____)
-* [Проект 2. ______](_____)
+* [Проект 2. ______](_____)  
+
+## Задания
+* [Задание 0. Визуализация данных](____)  
