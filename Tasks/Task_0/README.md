@@ -51,7 +51,7 @@
 
 
 ### 5. Результаты  
-Подготовлен отчет в формате Jupiter Notebook, в котором представлены ответы на все 10 вопросов. Ответы проиллюстрированы графиками и сопровождены развернутыми выводами.
+Подготовлен [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_0/data_visualisation_PY-13.ipynb) в формате Jupiter Notebook, в котором представлены ответы на все 10 вопросов. Ответы проиллюстрированы графиками и сопровождены развернутыми выводами.
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
