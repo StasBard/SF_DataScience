@@ -1,17 +1,17 @@
 # Задание 0. Визуализация данных
 
 ## Оглавление   
-[1. Описание задания]()  
-[2. Решаемая задача]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результаты]()    
-[6. Выводы]() 
+[1. Описание задания](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)  
+[2. Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
+[3. Краткая информация о данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC)  
+[5. Результаты](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)    
+[6. Выводы](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B) 
 
 ### 1. Описание задания    
 Освоение визуализации данных в качестве средства разведывательного анализа.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -32,13 +32,13 @@
 - научиться формулировать выводы на основе проанализированной информации;
 - улучшить навыки работы с Git, GitHub посредством добавления отчета о проделанной работе в портфолио.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
 Для работы предоставляется файл churn.csv с данными о клиентах некоего банка. Информация о признаках клиентов содержится в файле отчета.
   
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над заданием  
@@ -47,13 +47,13 @@
 2. Определить наиболее подходящий тип диаграммы и библиотеку.
 3. Отразить на графике ответ на вопрос задания и сделать выводы.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
 Подготовлен отчет в формате Jupiter Notebook, в котором представлены ответы на все 10 вопросов. Ответы проиллюстрированы графиками и сопровождены развернутыми выводами.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
@@ -66,7 +66,7 @@
 - улучшены наывки работы с Git и консольными командами;
 - улучшены навыки использования GitHub и оформления сопроводительной документации.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по заданию представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
