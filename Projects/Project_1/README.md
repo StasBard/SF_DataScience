@@ -1,18 +1,18 @@
 # Проект 1. Анализ резюме из HeadHunter.
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Решаемая задача]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результаты]()  
-[6. Выводы]()  
+[1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
+[3. Краткая информация о данных](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результаты](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
+[6. Выводы](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)  
 
 
 ### 1. Описание проекта    
 Анализ базы резюме HeadHunter с целью ее подготовки для использования в модели машинного обучения, определяющей примерный уровень заработной платы, подходящей соискателю на основании информации, которую тот указал о себе.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -44,16 +44,16 @@
 - улучшить навыки работы с IDE VS Code, Git, GitHub (посредством добавления отчета о проекте в портфолио);
 - улучшить навыки составления эффективного воспроизводимого код на python в соответствии с PEP 8.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
 Для работы предоставляется база резюме, выгруженная с сайта поиска вакансий hh.ru.
 Ввиду ее большого размера (434,4 Мб) она не может быть загружена на сайт GitHub, поэтому для воспроизведения кода данного проекта читателю предлагается скачать базу по [ссылке](https://drive.google.com/file/d/1_l4Bbc1xrUnQyDTsLzRP0EOaz-myM3yK/view?usp=share_link) и сохранить ее в папку data/ проекта.
 
-Дополнительно предоставляетя таблица котировок валют с целью конвертации желаемых зарплат соискателей из базы. Эта таблица находится в [папке проекта]() и не требует дополнительных действий.
+Дополнительно предоставляетя таблица котировок валют с целью конвертации желаемых зарплат соискателей из базы. Эта таблица находится в [папке проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1/data) и не требует дополнительных действий.
   
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -63,23 +63,23 @@
 4. Очистка данных.
 5. Оформление проекта и загрузка на GitHub.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
 По итогам работы над проектом:
 - предоставлены ответы на все контрольные вопросы на платформе SkillFactory, за что начислено 30 баллов;
 - сформулированы развернутые выводы по 8-ми обязательным пунктам разведывательного анализа, а также по 3-м собственным (один - бонусный);
-- подготовлен [отчет]() об анализе базы данных резюме в формате jupiter-notebook с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
+- подготовлен [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_1/Project-1_Vacancies_Analysis.ipynb) об анализе базы данных резюме в формате jupiter-notebook с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
 - проведена очистка данных, позволяющая подать обработанную базу резюме на вход модели обучения.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
 В процессе работы над проектом укрепилось понимание важности анализа и предобработки данных перед их последующим использованием в моделях машинного обучения, бизнесе; обнаружились возможные "подводные камни" неполноты данных, а вместе с ними отработаны приемы обработки и очистки данных; расширились знания способов визуализации взаимосвязей признаков в данных; успешно реализованы все обозначенные практики.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
