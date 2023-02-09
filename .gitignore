@@ -132,3 +132,4 @@ dmypy.json
 .DS_Store
 /Modules/
 Projects/Project_1/data/dst-3.0_16_1_hh_database.csv
+Projects/Project_2/DB_credentials.txt
