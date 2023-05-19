@@ -11,6 +11,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 
 ## Tasks
 * [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
+* [Task 1. Optimisation of hyperparameters of ML models]()
 
 ---
 # Мои Data Science Проекты и Задания,
@@ -26,3 +27,4 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 
 ## Задания
 * [Задание 0. Визуализация данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
+* [Задание 1. Оптимизация гиперпараметров моделей машинного обучения]()
