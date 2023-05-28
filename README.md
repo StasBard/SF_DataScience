@@ -8,6 +8,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Project 1. Analysis of HeadHunter resumes](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1)
 * [Project 2. Analysis of HeadHunter vacancies](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2)  
 * [Project 3. Booking reviews](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3)  
+* [Project 4. Bank clients classification](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
 
 ## Tasks
 * [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
@@ -24,6 +25,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2)  
 * [Проект 3. Предсказание рейтига отелей на Booking](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3)  
+* [Проект 4. Классификация клиентов банка](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
 
 ## Задания
 * [Задание 0. Визуализация данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
