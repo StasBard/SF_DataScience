@@ -133,3 +133,4 @@ dmypy.json
 /Modules/
 Projects/Project_1/data/dst-3.0_16_1_hh_database.csv
 Projects/Project_2/DB_credentials.txt
+Projects/Project_6/data/customer_segmentation_project_after_chapter_3.csv

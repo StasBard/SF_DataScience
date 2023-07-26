@@ -1,17 +1,17 @@
 # Проект 6. Сегментация клиентов онлайн-магазина подарков.  
 
 ## Оглавление   
-[1. Описание проекта]()  
-[2. Решаемая задача]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результаты]()  
-[6. Выводы]()  
+[1. Описание проекта](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Решаемая задача](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
+[3. Краткая информация о данных](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результаты](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
+[6. Выводы](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)  
 
 ### 1. Описание проекта    
-Сегментация клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа. В качестве дополнения - построение модели, определяющей сегмент клиента
+Сегментация клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа. В качестве дополнения - построение модели, определяющей сегмент клиента.  
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -26,11 +26,11 @@
 **Метрика качества**     
 - Для сравнения алгоритмов кластеризации используется значение коэффициента силуэта.  
 - При решении дополнительной задачи классификации используется метрика accuracy.  
-- Контролm хода выполнения проекта выполняется путем внесения получаемых данных в специальные поля на платформе SkillFactory для сравнения их с эталонными значениями.  
+- Контроль хода выполнения проекта выполняется путем внесения получаемых данных в специальные поля на платформе SkillFactory для сравнения их с эталонными значениями.  
 - **Итоговый ноутбук в формате .ipynb не проверяется менторами SkillFactory, поэтому качество его оформления говорит об отношении автора к выполняемой работе.**  
 
 **Практикуемые навыки:**     
-- развыдывательный анализ;  
+- разведывательный анализ;  
 - построение диаграмм с помощью библиотеки seaborn и plotly;  
 - использование алгоритмов понижения размерности из библиотеки sklearn;  
 - использование алгоритмов кластеризации из библиотеки sklearn;  
@@ -39,14 +39,14 @@
 - понимание и использование метрик качества моделей;  
 - работа с Git и GitHub посредством добавления отчета о проделанной работе в портфолио.  
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
 В датасете представлены более полумиллиона транзакций некоего онлайн-магазина подарков в Великобритании за годовой период с декабря 2010 по декабрь 2011 года.  
 Информация о признаках главного датасета приведена в начале ноутбука.  
   
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -57,7 +57,7 @@
 5. Решение задачи кластеризации алгоритмами k-means, EM, AgglomerativeClustering.  
 6. Решение дополнительной задачи классификации с помощью RandomForest и GradientBoosting.  
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
@@ -68,7 +68,7 @@
 5. Решена дополнительная задача классификации с помощью моделей RandomForestClassifier и GradientBoostingClassifier.  
 6. Отчет в формате Jupiter Notebook загружен на GitHub.  
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
@@ -80,7 +80,7 @@
 
 Улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP-8.
 
-:bookmark_tabs: [к оглавлению]()
+:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
