@@ -10,6 +10,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Project 3. Booking reviews](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3)  
 * [Project 4. Bank clients classification](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
 * [Project 5. Taxi trip duration forecast](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
+* [Project 6. Online gift shop customer segmentation](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
 
 ## Tasks
 * [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
@@ -28,6 +29,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Проект 3. Предсказание рейтига отелей на Booking](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3)  
 * [Проект 4. Классификация клиентов банка](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
 * [Проект 5. Предсказание времени поездки на такси](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
+* [Проект 6. Сегментация клиентов онлайн-магазина подарков](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
 
 ## Задания
 * [Задание 0. Визуализация данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
