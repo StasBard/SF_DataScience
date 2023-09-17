@@ -11,7 +11,7 @@ completed during [SkillFactory Data Science course](https://skillfactory.ru/data
 * [Project 4. Bank clients classification](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
 * [Project 5. Taxi trip duration forecast](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
 * [Project 6. Online gift shop customer segmentation](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
-* [Project 7. Diploma. Property price prediction for Real Estate Agency<](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7)
+* [Project 7. Diploma. Property price prediction for Real Estate Agency](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7)
 
 ## Tasks
 * [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
