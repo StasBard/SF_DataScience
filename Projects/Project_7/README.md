@@ -71,6 +71,7 @@
 5. На основе сравнения по метрикам качества выбрана модель GradientBoostingRegressor для продакшена.  
 6. Проведена подготовка и деплой модели на сервер с его последующей контейнерезацией. Образ контейнера доступен для скачивания с DockerHub по команде `docker pull stasbard/p7_regres:latest`. Файлы модели, сервера и Dockerfile находятся в папке [web](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7/web).  
 7. Воспроизводимый код с соблюдением стандарта PEP 8 и [отчет в формате Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_7/Project_7_Diploma_Real_Estate_Price_Prediction.ipynb) загружен на GitHub.  
+8. Выполненный проект [оценен ментором](/img/Project_7_Mentor_Review.png) на 25 из 25 баллов.
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
