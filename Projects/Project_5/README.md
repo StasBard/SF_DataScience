@@ -67,7 +67,7 @@
 3. Обучены модели машинного обучения: LinearRegression, Ridge, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGboost (в качестве бонуса).  
 4. Модели сравнены по метрике RMSLE, результаты сведены в таблицу, сделаны выводы.  
 5. Предсказание загружено на страницу соревнования на платформе kaggle.  
-6. Отчет в формате Jupiter Notebook загружен на GitHub.  
+6. [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/Project-5_ML_NYC_taxi_trip_duration_regression_task.ipynb) в формате Jupiter Notebook загружен на GitHub.  
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -77,7 +77,7 @@
 
 Конечно, текущий результат (примерно 471 место в рейтинге соревнования) далеко лучший, однако последующее углубление знаний в области машинного обучения вкупе с более эвристическими приемами предварительной обработки и разведывательного анализа имеющихся данных, бесспорно, позволят улучшать положение в рейтинге подобных соревнований.  
 
-В ходе реализации проекта улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP-8.
+В ходе реализации проекта улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP 8.
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 

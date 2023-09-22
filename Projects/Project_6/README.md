@@ -55,7 +55,7 @@
 3. Отбор и создание RFM-признаков.  
 4. Понижение размерности с помощью PCA и t-SNE.  
 5. Решение задачи кластеризации алгоритмами k-means, EM, AgglomerativeClustering.  
-6. Решение дополнительной задачи классификации с помощью RandomForest и GradientBoosting.  
+6. Решение дополнительной задачи классификации с помощью RandomForestClassifier и GradientBoostingClassifier.  
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -66,7 +66,7 @@
 3. Выполнено снижение размерности двумя алгоритмами, оценена эффективность каждого.  
 4. Проведена кластеризация с помощью нескольких методов и отобран лучший по метрике коэффициента силуэта.  
 5. Решена дополнительная задача классификации с помощью моделей RandomForestClassifier и GradientBoostingClassifier.  
-6. Отчет в формате Jupiter Notebook загружен на GitHub.  
+6. [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/Project_6_ML_Online_customer_segmentation.ipynb) в формате Jupiter Notebook загружен на GitHub.  
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -78,7 +78,7 @@
 
 Полученные сегментированные (размеченные данные) позволили дополнительно реализовать задачу обучения с учителем как с целью проверки качества кластеризации, так и с целью предсказания сегмента для новых клиентов.  
 
-Улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP-8.
+Улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP 8.
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 

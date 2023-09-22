@@ -67,10 +67,10 @@
 1. В ходе предобработки данных, выявлены многочисленные пропуски, дубли; намечены шаги для EDA.  
 2. На основе предобработанных данных сформировано baseline-решение с использованием модели логистичекой регрессии и CatBostRegressor для последующего сравнения.  
 3. Выполнен разведывательный анализ, включавший генерацию новых признаков с помощью десериализации имеющихся и привлечения внешних источников; выдвинуты гипотезы о взаимном влиянии данных; выводы проиллюстрированы диаграммами. Первые три этапа заняли до 80% всего времени работы над проектом!   
-4. Решена задача регрессии с использованием моделей и алгоритмов: LinearRregression, PolynomialFeatures DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, StackingRegressor, CatBoostRegressor, RandomizedSearchCV, Optuna.  
+4. Решена задача регрессии с использованием моделей и алгоритмов: LinearRregression, PolynomialFeatures, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, StackingRegressor, CatBoostRegressor, RandomizedSearchCV, Optuna.  
 5. На основе сравнения по метрикам качества выбрана модель GradientBoostingRegressor для продакшена.  
 6. Проведена подготовка и деплой модели на сервер с его последующей контейнерезацией. Образ контейнера доступен для скачивания с DockerHub по команде `docker pull stasbard/p7_regres:latest`. Файлы модели, сервера и Dockerfile находятся в папке [web](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7/web).  
-7. Воспроизводимый код с соблюдением стандарта PEP-8 и отчет в [формате Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_7/Project_7_Diploma_Real_Estate_Price_Prediction.ipynb) загружен на GitHub.  
+7. Воспроизводимый код с соблюдением стандарта PEP 8 и [отчет в формате Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_7/Project_7_Diploma_Real_Estate_Price_Prediction.ipynb) загружен на GitHub.  
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 

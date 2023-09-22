@@ -70,7 +70,7 @@
 По итогам работы над проектом:
 - предоставлены ответы на все контрольные вопросы на платформе SkillFactory, за что начислено 30 баллов;
 - сформулированы развернутые выводы по 8-ми обязательным пунктам разведывательного анализа, а также по 3-м собственным (один - бонусный);
-- подготовлен [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_1/Project-1_Vacancies_Analysis.ipynb) об анализе базы данных резюме в формате jupiter-notebook с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
+- подготовлен [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_1/Project-1_Resumes_Analysis.ipynb) об анализе базы данных резюме в формате jupiter-notebook с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
 - проведена очистка данных, позволяющая подать обработанную базу резюме на вход модели обучения.
 
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
