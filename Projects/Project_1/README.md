@@ -21,7 +21,7 @@
 Проблематика задачи: часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 Поэтому имеющуюся в распоряжении базу резюме с сайта поиска вакансий hh.ru необходимо преобразовать, исследовать и очистить.
 
-**Условия решения задачи:**  
+**Условия решения задачи**  
 В ходе каждого этапа работы над проектом необходимо выполнить блоки практических заданий в jupyter-notebook по предложенному шаблону и ответить на контрольные вопросы на платформе SkillFactory. Посредством ответов на эти вопросы проверяется верность решений в заданиях.
 Задания выполняются последовательно.
 
@@ -109,7 +109,7 @@ This project involves analyzing the HeadHunter resume database to prepare it for
 ### 2. Problem Statement   
 The problem being addressed is that some job applicants do not specify their desired salary when creating their resumes. Therefore, the existing resume database from the job search site hh.ru needs to be transformed, explored, and cleaned.
 
-**Problem Solving Conditions:**  
+**Problem Solving Conditions**  
 During each stage of the project it is necessary to complete practical tasks in a Jupyter notebook using the provided template and answer control questions on the SkillFactory platform. The correctness of solutions to the tasks is verified by the answers to these questions. The tasks are to be completed sequentially.  
 
 For exploratory analysis, it is allowed to use any of the studied visualization libraries : Matplotlib, Seaborn, and Plotly. However, it is recommended to choose Plotly for its interactivity.  
