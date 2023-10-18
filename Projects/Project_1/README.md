@@ -1,6 +1,6 @@
 # Проект 1. Анализ резюме из HeadHunter.
 
-[Go to English]() :us: 
+[Go to English](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#project-1-analyzing-resumes-from-headhunter) :us: 
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -14,7 +14,7 @@
 ### 1. Описание проекта    
 Анализ базы резюме HeadHunter с целью ее подготовки для использования в модели машинного обучения, определяющей примерный уровень заработной платы, подходящей соискателю на основании информации, которую тот указал о себе.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -46,7 +46,7 @@
 - улучшить навыки работы с IDE VS Code, Git, GitHub (посредством добавления отчета о проекте в портфолио);
 - улучшить навыки составления эффективного воспроизводимого код на python в соответствии с PEP 8.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
@@ -55,7 +55,7 @@
 
 Дополнительно предоставляетя таблица котировок валют с целью конвертации желаемых зарплат соискателей из базы. Эта таблица находится в [папке проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1/data) и не требует дополнительных действий.
   
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -65,7 +65,7 @@
 4. Очистка данных.
 5. Оформление проекта и загрузка на GitHub.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
@@ -75,13 +75,13 @@
 - подготовлен [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_1/Project-1_Resumes_Analysis.ipynb) об анализе базы данных резюме в формате jupiter-notebook с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
 - проведена очистка данных, позволяющая подать обработанную базу резюме на вход модели обучения.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
 В процессе работы над проектом укрепилось понимание важности анализа и предобработки данных перед их последующим использованием в моделях машинного обучения, бизнесе; обнаружились возможные "подводные камни" неполноты данных, а вместе с ними отработаны приемы обработки и очистки данных; расширились знания способов визуализации взаимосвязей признаков в данных; успешно реализованы все обозначенные практики.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
@@ -93,17 +93,17 @@
 [К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%D0%B8%D0%B7-headhunter) :ru: 
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#6-conclusions)  
 
 ### 1. Project Description    
 This project involves analyzing the HeadHunter resume database to prepare it for use in a machine learning model. The goal is to predict an approximate salary level suitable for job applicants based on the information they provide about themselves.
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -133,7 +133,7 @@ To successfully complete the project, one needs to earn at least 21 points.
 - Improving proficiency with IDE VS Code, Git, GitHub (by adding project reports to the portfolio).  
 - Enhancing the skills of composing efficient and reproducible Python code in accordance with PEP 8.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -141,7 +141,7 @@ For this project, a resume database has been provided, which was extracted from 
 
 Additionally, a currency exchange rate table is provided to convert the desired salaries of job applicants from the database. This table is located in the [project folder](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1/data) and does not require any additional actions.
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -151,7 +151,7 @@ Additionally, a currency exchange rate table is provided to convert the desired 
 4. Data cleaning.  
 5. Project documentation and uploading to GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 ### 5. Results  
@@ -161,13 +161,13 @@ Based on the project's results:
 - [Report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_1/Project-1_Resumes_Analysis.ipynb) on the analysis of the resume database was prepared in jupyter notebook format, including recommendations on which features to pay attention to when creating a machine learning model;  
 - Data cleaning was performed, enabling the processed resume database to be used as input for the training model.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 ### 6. Conclusions  
 During the project, the understanding of the importance of data analysis and preprocessing before their use in machine learning models and business applications was significantly strengthened. Possible "pitfalls" of data incompleteness were identified, and techniques for data processing and cleaning were effectively applied. Knowledge regarding methods of visualizing feature relationships in data expanded, and all outlined practices were successfully implemented.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
