@@ -1,6 +1,6 @@
 # Проект 2. Анализ вакансий из HeadHunter.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#project-2-analyzing-job-openings-from-headhunter) :us:  
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -48,7 +48,7 @@
 - улучшить навыки работы с IDE VS Code, Git, GitHub (посредством добавления отчета о проекте в портфолио);
 - улучшить навыки составления эффективного воспроизводимого код на Python в соответствии с PEP 8.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
 
 
 ### 3. Краткая информация о данных  
@@ -60,7 +60,7 @@
 - industries - справочник вариантов сфер деятельности работодателей,  
 - employers_industries - дополнительная таблица для организации связи между работодателями и сферами их деятельности, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).  
   
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
 
 
 ### 4. Этапы работы над проектом  
@@ -72,7 +72,7 @@
 6. Дополнительный (собственный) анализ.  
 7. Оформление проекта и загрузка на GitHub.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
 
 
 ### 5. Результаты  
@@ -84,13 +84,13 @@
 - сделан упор на SQL-запросы с целью наиболее понятного представления данных для ответа на поставленные вопросы без частого использования графиков;  
 - подготовлен и выгружен на  GitHub [отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/Project-2_Job_position_analysis.ipynb) об анализе базы вакансий в формате jupiter-notebook.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
 
 
 ### 6. Выводы  
 В процессе работы над проектом отработаны способы обращения к базе данных с помощью PostgreSQL и Python, а также улучшены навыки работы с BI-инструментом Metabase; углубилось понимание работы изученных конструкций языка SQL, главным образом - метода JOIN и его разновидностей; приобретены навыки последовательного анализа с целью формирования целостной картины имеющихся данных, формулирования выводов, подкрепленных необходимыми данными, выдвижения гипотез и выявления тенденций; успешно реализованы все обозначенные практики.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)  
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
@@ -99,20 +99,20 @@
 
 # Project 2. Analyzing job openings from HeadHunter.  
 
-[К описанию на русском]() :ru: 
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9-%D0%B8%D0%B7-headhunter) :ru: 
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#6-conclusions)  
 
 ### 1. Project Description  
 Analysis of the HeadHunter job database with the aim of preparing it for use in a machine learning model that will recommend job vacancies to clients of the personnel agency who are applying for the position of Data Scientist.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 ### 2. Problem Statement  
@@ -146,7 +146,7 @@ To successfully complete the project, one needs to score at least 21 points.
 - Enhance skills in working with IDEs like VS Code, Git, and GitHub by adding a project report to a portfolio;  
 - Improve skills in writing efficient and reproducible Python code following PEP 8 guidelines.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -157,7 +157,7 @@ The project is provided with a job vacancy database named "project_sql," which i
 - industries - It serves as a reference for different sectors or industries of employers;  
 - employers_industries - This table is used to establish the relationships between employers and their industries. It is necessary because one employer can operate in multiple industries, or employers may not specify their industries at all.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -169,7 +169,7 @@ The project is provided with a job vacancy database named "project_sql," which i
 6. Additional (Custom) Analysis.  
 7. Project Formatting and Uploading to GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 ### 5. Results  
@@ -181,7 +181,7 @@ Upon completion of the project:
 - Emphasis was placed on SQL queries to provide the most understandable data presentation for answering questions without frequent use of graphs;  
 - A [report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/Project-2_Job_position_analysis.ipynb) on the analysis of the job vacancy database has been prepared and uploaded to GitHub in Jupyter Notebook format.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -193,7 +193,7 @@ During the project, various skills and knowledge were acquired and improved:
 - The ability to formulate conclusions supported by relevant data, generate hypotheses, and identify trends;  
 - The successful application of the practices outlined in the project.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_2/README.md#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
