@@ -1,6 +1,6 @@
 # Проект 7. Дипломный. Прогнозирование стоимости жилья для агентства недвижимости.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#project-7-diploma-predicting-housing-prices-for-a-real-estate-agency) :us:  
 
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -98,20 +98,20 @@
 
 # Project 7. Diploma. Predicting housing prices for a real estate agency.  
 
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-7-%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B6%D0%B8%D0%BB%D1%8C%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8) :ru:  
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#6-conclusions)  
 
 ### 1. Project Description    
 The project involves the development and production deployment of a machine learning model to predict the prices of real estate properties listed for sale. The primary goal is to enhance the response time and the quality of work for real estate agents in the agency.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -140,7 +140,7 @@ Preprocess and conduct exploratory data analysis on a real dataset of the US rea
 - Working with Git and GitHub by adding a report of the work to the portfolio;  
 - Containerization and working with Docker and DockerHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -148,7 +148,7 @@ The dataset contains 377 thousand real estate listings. The data was sourced fro
 
 The data is real and hasn't been preprocessed in advance. It may contain various issues such as missing values, duplicates, input errors, and more. Information about the dataset's features is provided at the beginning of the notebook.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -158,7 +158,7 @@ The data is real and hasn't been preprocessed in advance. It may contain various
 4. Modeling and Solving the Regression Task.  
 5. Preparing the Model for Production and Deployment.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 ### 5. Results  
@@ -171,7 +171,7 @@ The data is real and hasn't been preprocessed in advance. It may contain various
 7. The reproducible code adhering to the PEP 8 standard and the [report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_7/Project_7_Diploma_Real_Estate_Price_Prediction.ipynb) in Jupiter Notebook format have been uploaded to GitHub.  
 8. The completed project was [evaluated by a mentor](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_7/img/Project_7_Mentor_Review.pdf) and received a score of 25 out of 25 points.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -185,7 +185,7 @@ From the pool of trained models, the best one was objectively selected and deplo
 
 Despite the server's simplicity and the models not being flawless, this project provided a firsthand experience of the Data Scientist role, and it establishes a solid foundation for pursuing entry-level positions in actual companies.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
