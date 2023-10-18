@@ -1,6 +1,6 @@
 # Проект 5. Предсказание продолжительности поездки на такси в Нью-Йорке.  
 
-[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/README.md#project--predicting-nyc-taxi-trip-duratiom) :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/README.md#project-5-predicting-nyc-taxi-trip-duration) :us:  
 
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -88,7 +88,7 @@
 
 ---
 
-# Project 5. Predicting NYC taxi trip duratiom.  
+# Project 5. Predicting NYC taxi trip duration.  
 
 [К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%82%D0%B0%D0%BA%D1%81%D0%B8-%D0%B2-%D0%BD%D1%8C%D1%8E-%D0%B9%D0%BE%D1%80%D0%BA%D0%B5) :ru:  
 
