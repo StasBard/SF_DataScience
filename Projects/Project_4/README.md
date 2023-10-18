@@ -105,11 +105,6 @@ For this project, the goal is to improve the effectiveness of a bank's marketing
 The objective is to sequentially go through all the stages of a Data Science project to process, select, and prepare customer features for input into a machine learning model. The ultimate goal is to obtain a model with optimally tuned hyperparameters and to define the profile of the bank's target audience, which is more inclined to open a deposit.  
 
 **Problem Solving Conditions**  
-1. Обработать входные данные: провести разведывательный анализ, отобрать признаки, нормализовать и подготовить на вход модели МО; гипотезы и выводы сопроводить иллюстрациями.  
-2. Обучить несколько моделей из библиотеки sklearn: логистическая регрессия, случайный лес, градиентный бустинг, стекинг - и сравнить их по метрикам качества.  
-3. Для оптимизации гиперпараметров использовать метод GridSearchCV и Optuna.  
-4. Построить прогноз и сделать выводы.  
-
 1. Data Processing: Conduct exploratory data analysis (EDA), feature selection, normalization, and prepare data for machine learning. Support hypotheses and findings with illustrations.  
 2. Train several models from the sklearn library: logistic regression, random forest, gradient boosting, and stacking. Compare them based on quality metrics.  
 3. Use GridSearchCV and Optuna to optimize hyperparameters.  
