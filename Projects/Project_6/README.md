@@ -1,6 +1,6 @@
 # Проект 6. Сегментация клиентов онлайн-магазина подарков.  
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#project-6-customer-segmentation-for-an-online-gift-store) :us:  
 
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -91,20 +91,20 @@
 
 # Project 6. Customer segmentation for an online gift store.  
 
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-6-%D1%81%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BA%D0%BE%D0%B2) :ru:  
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#6-conclusions)  
 
 ### 1. Project Description    
 Customer segmentation based on their purchasing ability, order frequency, and the time since their last order. Additionally, building a model to determine a customer's segment.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -132,13 +132,13 @@ Sequentially go through all the stages of the unsupervised learning Data Science
 - Understanding and using metrics for model quality;  
 - Working with Git and GitHub by adding a report on the completed work to the portfolio.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 ### 3. Brief Data Overview  
 In the dataset, there are more than half a million transactions from an online gift shop in the United Kingdom over a yearly period from December 2010 to December 2011. Information about the features of the main dataset is provided at the beginning of the notebook.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -149,7 +149,7 @@ In the dataset, there are more than half a million transactions from an online g
 5. Solving the clustering task using k-means, EM, and AgglomerativeClustering algorithms.  
 6. Solving the additional classification task using RandomForestClassifier and GradientBoostingClassifier.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 ### 5. Results  
@@ -160,7 +160,7 @@ In the dataset, there are more than half a million transactions from an online g
 5. An additional classification task was solved using RandomForestClassifier and GradientBoostingClassifier models.  
 6. The [report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/Project_6_ML_Online_customer_segmentation.ipynb) in the Jupyter Notebook format has been uploaded to GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -172,7 +172,7 @@ The segmented and labeled data obtained allowed for the additional achievement o
 
 Skills in exploratory data analysis, working with machine learning models, and writing efficient, reproducible Python code following PEP 8 standards have been improved.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/README.md#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
