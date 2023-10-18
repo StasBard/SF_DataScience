@@ -1,5 +1,7 @@
 # Проект 4. Классификация клиентов банка.  
 
+[Go to English]() :us:  
+
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
 [2. Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
@@ -40,7 +42,7 @@
 
 
 ### 3. Краткая информация о данных  
-Данные реальные без предварительной обработки представлены в формате .csv и расположены в папке data/.  
+Данные реальные без предварительной обработки представлены в формате .csv и расположены в папке `data/`.  
 Информация о признаках приведена в начале ноутбука.  
   
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
@@ -76,4 +78,91 @@
 :bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
+Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
+
+---
+
+# Project 4. Classification of bank customers.    
+
+[К описанию на русском]() :ru:  
+
+## Table of Contents
+[1. Project Description]()  
+[2. Problem Statement]()  
+[3. Brief Data Overview]()  
+[4. Project Work Stages]()  
+[5. Results]()  
+[6. Conclusions]()  
+
+### 1. Project Description    
+For this project, the goal is to improve the effectiveness of a bank's marketing campaign by identifying characteristics of bank customers who are more likely to open a deposit and building a machine learning model that can predict, based on these customer characteristics, whether they will accept an offer to open a deposit or not. 
+**The provided data is from a real bank!**  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 2. Problem Statement   
+The objective is to sequentially go through all the stages of a Data Science project to process, select, and prepare customer features for input into a machine learning model. The ultimate goal is to obtain a model with optimally tuned hyperparameters and to define the profile of the bank's target audience, which is more inclined to open a deposit.  
+
+**Problem Solving Conditions**  
+1. Обработать входные данные: провести разведывательный анализ, отобрать признаки, нормализовать и подготовить на вход модели МО; гипотезы и выводы сопроводить иллюстрациями.  
+2. Обучить несколько моделей из библиотеки sklearn: логистическая регрессия, случайный лес, градиентный бустинг, стекинг - и сравнить их по метрикам качества.  
+3. Для оптимизации гиперпараметров использовать метод GridSearchCV и Optuna.  
+4. Построить прогноз и сделать выводы.  
+
+1. Data Processing: Conduct exploratory data analysis (EDA), feature selection, normalization, and prepare data for machine learning. Support hypotheses and findings with illustrations.  
+2. Train several models from the sklearn library: logistic regression, random forest, gradient boosting, and stacking. Compare them based on quality metrics.  
+3. Use GridSearchCV and Optuna to optimize hyperparameters.  
+4. Make predictions and draw conclusions.  
+
+**Quality Metric**   
+- To compare models, the following metrics should be used: accuracy, precision, recall, and the $F1$-score.  
+- To monitor the progress of the project, keep track of the data in the designated fields on the SkillFactory platform and compare them with the reference values.  
+- **Please note that the final Jupyter notebook in .ipynb format is not reviewed by SkillFactory mentors, so its quality of presentation reflects my dedication to the work.**
+
+**Skills to Practice**  
+- Exploratory data analysis;  
+- Creating visualizations using libraries such as Seaborn, Matplotlib, and Pandas;  
+- Model training and optimization of hyperparameters;  
+- Understanding and utilizing model evaluation metrics;  
+- Working with Git and GitHub by adding a report on the completed work to the portfolio.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 3. Brief Data Overview  
+Real data, without prior processing, is provided in .csv format and located in the `data/` folder. Information about the features is provided at the beginning of the notebook.  
+  
+:arrow_up: [Back to Table of Contents]()
+
+
+### 4. Project Work Stages  
+1. Initial Data Preprocessing.  
+2. Exploratory Data Analysis (EDA).  
+3. Feature Selection and Transformation.  
+4. Classification Problem Solving: Logistic Regression and Decision Trees.  
+5. Classification Problem Solving: Model Ensembles and Making Predictions.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 5. Results  
+1. Data processing was carried out, and exploratory data analysis was conducted using illustrations.  
+2. Features have been selected and prepared for input into the model.  
+3. Machine learning models have been trained: LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, StackingClassifier.  
+4. GridSearchCV and Optuna were used to optimize hyperparameters.  
+5. Models were compared using metrics, and conclusions were drawn.  
+6. [Report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/Project-4_ML_Bank_client_classification.ipynb) in Jupyter Notebook format has been uploaded to GitHub.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 6. Conclusions  
+During the project, a real problem frequently faced by analysts in the banking sector has been addressed. The work done in identifying key factors, training models, and making predictions can enhance the bank's revenue and contribute to a better understanding of the target audience, which can be effectively attracted through advertising and various offers.  
+
+As a result of completing this task, skills in working with machine learning models and optimizing their algorithms have been improved. Additionally, efficient and reproducible Python code has been written in accordance with PEP 8.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
