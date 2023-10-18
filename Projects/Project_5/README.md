@@ -1,5 +1,7 @@
 # Проект 5. Предсказание продолжительности поездки на такси в Нью-Йорке.  
 
+[Go to English]() :us:  
+
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
 [2. Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
@@ -12,7 +14,7 @@
 Автоматизация бизнес-процессов сервисов такси города Нью-Йорк путем создания модели машинного обучения, способной предсказывать продолжительность поездки в зависимости от различных факторов.  
 Решаемая задача была представлена в качестве [Data Science-соревнования на платформе Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) в 2017 году с призовым фондом в $30'000.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -35,7 +37,7 @@
 - понимание и использование метрик качества моделей; 
 - работа с kaggle, Git и GitHub посредством добавления отчета о проделанной работе в портфолио.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
@@ -47,7 +49,7 @@
 
 Информация о признаках главного датасета с 1.5 млн поездок приведена в начале ноутбука.  
   
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -58,7 +60,7 @@
 5. Решение задачи регрессии: ансамблевые методы и построение прогноза.  
 6. Загрузка предсказания на kaggle.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
@@ -69,7 +71,7 @@
 5. Предсказание загружено на страницу соревнования на платформе kaggle.  
 6. [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/Project-5_ML_NYC_taxi_trip_duration_regression_task.ipynb) в формате Jupiter Notebook загружен на GitHub.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
@@ -79,7 +81,98 @@
 
 В ходе реализации проекта улучшены навыки разведывательного анализа, работы с моделями МО, написан эффективный воспроизводимый код на python в соответствии с PEP 8.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
+Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
+
+---
+
+# Project . Predicting NYC taxi trip duratiom.  
+
+[К описанию на русском]() :ru:  
+
+## Table of Contents
+[1. Project Description]()  
+[2. Problem Statement]()  
+[3. Brief Data Overview]()  
+[4. Project Work Stages]()  
+[5. Results]()  
+[6. Conclusions]()  
+
+### 1. Project Description    
+Automation of business processes for taxi services in the city of New York through the creation of a machine learning model capable of predicting trip duration based on various factors.  
+
+The problem addressed was presented as a [Data Science competition on the Kaggle platform](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) in 2017 with a prize pool of $30,000.
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 2. Problem Statement   
+Sequentially go through all stages of the Data Science task: process, select, and prepare the trip features for input into the ML-model, train multiple models and compare them based on the quality metric, choose the best one, use it to make predictions, and upload them to the competition page on the Kaggle platform.  
+
+**Problem Solving Conditions**  
+1. Process the input data: perform exploratory data analysis, select features, normalize, and prepare them for the ML-model; support hypotheses and conclusions with illustrations.  
+2. Train several models from the sklearn library, including logistic regression, polynomial regression, random forest, and gradient boosting; compare their performance based on a quality metric.  
+3. Make predictions using the chosen best model and upload them to the Kaggle competition platform.  
+
+**Quality Metric**     
+- For model comparison, the $RMSLE$ (Root Mean Squared Log Error) metric is used, which is calculated based on the target variable in logarithmic scale.  
+- To monitor the progress of the project, it is required to enter the obtained data into special fields on the SkillFactory platform and compare them with reference values.  
+- **The final Jupyter Notebook in .ipynb format is not reviewed by SkillFactory mentors, so its quality of presentation reflects the author's attitude toward the work.**  
+
+**Skills to Practice**     
+- Exploratory analysis;  
+- Construction of diagrams using the seaborn, matplotlib, and plotly libraries;  
+- Model training and optimization of hyperparameters;  
+- Understanding and use of model quality metrics;  
+- Working with Kaggle, Git, and GitHub by adding a report of the work done to the portfolio.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 3. Brief Data Overview  
+The competition organizers provided a dataset containing information about yellow taxi trips in New York City in 2016. Initially, the data was released by the New York City Taxi and Limousine Commission and includes information about trip times, geographical coordinates, the number of passengers, and several other variables.  
+
+In addition, to solve the problem, auxiliary data from other sources were used, such as national holidays, weather information, and data from the Open Source Routing Machine (a service that allows for routing between coordinates and estimates route duration).  
+
+All datasets are available on the Kaggle platform and are connected to the notebook.  
+
+Information about the features of the main dataset with 1.5 million trips is provided at the beginning of the notebook.  
+  
+:arrow_up: [Back to Table of Contents]()
+
+
+### 4. Project Work Stages  
+1. Initial Data Processing.  
+2. Exploratory Data Analysis (EDA).  
+3. Feature Selection and Transformation.  
+4. Regression Problem Solving: Linear Regression and Decision Trees.  
+5. Regression Problem Solving: Ensemble Methods and Forecasting.  
+6. Uploading Predictions to Kaggle.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 5. Results  
+1. Data processing was carried out, and exploratory data analysis was conducted with the use of illustrations.  
+2. Features were selected and prepared for input to the model.  
+3. Machine learning models were trained: LinearRegression, Ridge, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGBoost (as a bonus).  
+4. Models were compared using the $RMSLE$ metric, and the results were compiled into a table with conclusions.  
+5. Predictions were uploaded to the competition page on the Kaggle platform.  
+6. The [report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/Project-5_ML_NYC_taxi_trip_duration_regression_task.ipynb) in Jupyter Notebook format was uploaded to GitHub.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+### 6. Conclusions  
+The project allowed me to step into the role of a Data Scientist in the field of transportation: to conduct a comprehensive study of the collected data, predict taxi trip times using various modern models, and select the most accurate model based on the specified metric.  
+
+Certainly, the current result (roughly 471st place in the competition ranking) is far from the best. However, further deepening of knowledge in the field of machine learning, coupled with more heuristic approaches to data preprocessing and exploratory data analysis, will undoubtedly allow for improving rankings in similar competitions.  
+
+Throughout the project's implementation, I improved my skills in exploratory data analysis, working with machine learning models, and writing efficient, reproducible Python code following PEP 8 guidelines.  
+
+:arrow_up: [Back to Table of Contents]()
+
+
+If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
