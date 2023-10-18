@@ -1,6 +1,6 @@
 # Проект 4. Классификация клиентов банка.  
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#project-4-classification-of-bank-customers) :us:  
 
 ## Оглавление   
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -14,7 +14,7 @@
 Повышение результативности маркетинговой кампании банка за счет определения характеристик клиентов банка, более склонных к открытию депозита в банке, и построения модели машинного обучения, способной на основе предложенных характеристик клиента предсказывать, воспользуется он предложением об открытии депозита или нет.  
 **Предложенные данные принадлежат реальному банку!**
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача    
@@ -38,14 +38,14 @@
 - понимание и использование метрик качества моделей; 
 - работа с Git, GitHub посредством добавления отчета о проделанной работе в портфолио.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
 Данные реальные без предварительной обработки представлены в формате .csv и расположены в папке `data/`.  
 Информация о признаках приведена в начале ноутбука.  
   
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -55,7 +55,7 @@
 4. Решение задачи классификации: логистическая регрессия и решающие деревья.  
 5. Решение задачи классификации: ансамбли моделей и построение прогноза.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
@@ -66,7 +66,7 @@
 5. Модели сравнены по метрикам, сделаны выводы.
 6. [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/Project-4_ML_Bank_client_classification.ipynb) в формате Jupiter Notebook загружен на GitHub.  
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
@@ -75,7 +75,7 @@
 
 По итогам выполнения задачи улучшены навыки работы с моделями МО и алгоритмами их оптимизации, написан эффективный воспроизводимый код на python в соответствии с PEP 8.
 
-:bookmark_tabs: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
@@ -84,21 +84,21 @@
 
 # Project 4. Classification of bank customers.    
 
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-4-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0) :ru:  
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#6-conclusions)  
 
 ### 1. Project Description    
 For this project, the goal is to improve the effectiveness of a bank's marketing campaign by identifying characteristics of bank customers who are more likely to open a deposit and building a machine learning model that can predict, based on these customer characteristics, whether they will accept an offer to open a deposit or not. 
 **The provided data is from a real bank!**  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -127,13 +127,13 @@ The objective is to sequentially go through all the stages of a Data Science pro
 - Understanding and utilizing model evaluation metrics;  
 - Working with Git and GitHub by adding a report on the completed work to the portfolio.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 ### 3. Brief Data Overview  
 Real data, without prior processing, is provided in .csv format and located in the `data/` folder. Information about the features is provided at the beginning of the notebook.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -143,7 +143,7 @@ Real data, without prior processing, is provided in .csv format and located in t
 4. Classification Problem Solving: Logistic Regression and Decision Trees.  
 5. Classification Problem Solving: Model Ensembles and Making Predictions.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 ### 5. Results  
@@ -154,7 +154,7 @@ Real data, without prior processing, is provided in .csv format and located in t
 5. Models were compared using metrics, and conclusions were drawn.  
 6. [Report](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/Project-4_ML_Bank_client_classification.ipynb) in Jupyter Notebook format has been uploaded to GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -162,7 +162,7 @@ During the project, a real problem frequently faced by analysts in the banking s
 
 As a result of completing this task, skills in working with machine learning models and optimizing their algorithms have been improved. Additionally, efficient and reproducible Python code has been written in accordance with PEP 8.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/README.md#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
