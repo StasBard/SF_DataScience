@@ -1,6 +1,6 @@
 # Задание 1. Предсказание биологического ответа молекул.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#task-1-) :us:  
 
 ## Оглавление   
 [1. Описание задания](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)  
@@ -95,24 +95,24 @@
 
 ---
 
-# Task 1. <Project Name>
+# Task 1. Predicting the biological response of molecules.  
 
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0-%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB) :ru:  
 
 ## Table of Contents
-[1. Task Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Task Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Task Description](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#1-task-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#3-brief-data-overview)  
+[4. Task Work Stages](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#4-task-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#6-conclusions)  
 
 ### 1. Task Description    
 The task focuses on refining skills in hyperparameter optimization for machine learning models using both fundamental and advanced methods. It entails comparing these methods and analyzing their outcomes within the context of predicting a biological response of molecules based on their chemical composition.  
 
 The task is based on the [Kaggle competition titled "Predicting a Biological Response"](https://www.kaggle.com/c/bioresponse).  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -145,7 +145,7 @@ The maximum score for this task is 5.
 - Learn how to work with Google Colab;  
 - Refresh your skills in using Git and GitHub by adding a report on your completed work to your portfolio.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -155,7 +155,7 @@ The data is provided in a .csv format. Each row represents a molecule:
 
 No preprocessing is required, as the data is already encoded and normalized.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 ### 4. Task Work Stages  
@@ -166,7 +166,7 @@ No preprocessing is required, as the data is already encoded and normalized.
 
 Please let me know if you need guidance or have specific questions about any of these tasks.
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 ### 5. Results  
@@ -175,7 +175,7 @@ Please let me know if you need guidance or have specific questions about any of 
 3. Detailed conclusions have been written for each method, and a general conclusion has been made based on the results.  
 4. The [report](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/ML_7_Task_Predicting_a_Biological_Response.ipynb) in Jupiter Notebook format has been uploaded to GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -187,7 +187,7 @@ The task has successfully implemented the following practices:
 - Developed efficient and reproducible Python code;  
 - Maintained code compliance with PEP 8.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#table-of-contents)
 
 
 If you find the task information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
