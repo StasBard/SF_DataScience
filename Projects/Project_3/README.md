@@ -1,6 +1,6 @@
 # Проект 3. Предсказание рейтига отелей на Booking.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#project-3-predicting-hotel-ratings-on-booking) :us:  
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
@@ -91,7 +91,7 @@
 - достигнуто целевое значение итоговой метрики MAPE (12,56% в ноутбуке);  
 - каждый этап сопровожден развернутыми комментариями и выводами, визуализацией данных;  
 - файл sumbission.csv с предсказанными рейтингами загружен на kaggle;  
-- проект в виде ноутбука оформлен на [kaggle](https://www.kaggle.com/stasbard/project-3-booking-reviews) и [GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/Project_3_EDA_Booking_reviews.ipynb). 
+- проект в виде ноутбука оформлен на [kaggle](https://www.kaggle.com/stasbard/project-3-booking-reviews) и [GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/Project-3_EDA_Booking_reviews.ipynb). 
 
 **Эволюция коммитов**  
 Улучшение метрики MAPE достигалось с помощью разведовательного анализа. По рекомендации ментора, была применена библиотека анализа естественного языка nltk. При этом в первом подходе из возвращаемых оценок использовались лишь совокупные для отрицательных и положительных отзывов, которые складывались для образование одного признака. Этот прием не дал желаемого улучшения MAPE, в результате чего было принято решение использовать все четыре составляющие для каждого отзыва: положительную, нейтральную, отрицательную и совокупную. Первая версия сабмита сразу содержит именно такое решение.  
@@ -121,20 +121,20 @@
 
 # Project 3. Predicting hotel ratings on Booking.  
 
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-3-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%B3%D0%B0-%D0%BE%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BD%D0%B0-booking) :ru:  
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#6-conclusions)  
 
 ### 1. Project Description    
 Let's imagine that I work as a data scientist at Booking.com. One of the company's challenges is dealing with dishonest hotels that manipulate their ratings. One way to identify such hotels is to build a model that predicts a hotel's rating. If the model's predictions significantly deviate from the actual rating, it's possible that the hotel is behaving dishonestly and should be investigated.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -177,7 +177,7 @@ To successfully complete the project, one needs to earn 12 points.
 - Improve the skills of using the Markdown markup language;  
 - Enhance the skills of writing efficient and reproducible Python code in accordance with PEP 8.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -185,7 +185,7 @@ A dataset of Booking.com hotels is provided for the project, which includes both
 
 During the project, one is allowed to use any external sources to generate additional features in the data.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -197,7 +197,7 @@ During the project, one is allowed to use any external sources to generate addit
 6. Hotel Rating Prediction.  
 7. Project Presentation on Kaggle and GitHub.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 ### 5. Results  
@@ -211,7 +211,7 @@ Throughout the project, all stages of data processing were sequentially complete
 - The target value for the final metric, MAPE (12.56% in the notebook), was achieved;  
 - Each stage is accompanied by detailed comments and insights, along with data visualization;  
 - The submission.csv file with predicted ratings was uploaded to Kaggle;  
-- The project, in the form of a notebook, is available on [Kaggle](https://www.kaggle.com/stasbard/project-3-booking-reviews) and [GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/Project_3_EDA_Booking_reviews.ipynb).  
+- The project, in the form of a notebook, is available on [Kaggle](https://www.kaggle.com/stasbard/project-3-booking-reviews) and [GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/Project-3_EDA_Booking_reviews.ipynb).  
 
 **Evolution of commits**  
 Improvements in the MAPE metric were achieved through exploratory data analysis. Following the mentor's recommendation, the natural language processing library NLTK was applied. In the initial approach, only the overall scores for negative and positive reviews were used, summing up to form a single feature. However, this technique didn't yield the desired improvement in MAPE. As a result, the decision was made to use all four components for each review: positive, neutral, negative, and overall. The first version of the submission immediately implemented this approach.  
@@ -222,7 +222,7 @@ The last three submissions essentially involved fine-tuning the final results an
 
 Finally, an interesting discovery was made: a small error in the city center's coordinate (longitude module for London) when calculating the hotel distance feature led to the best final metric (12.54%). Without a full understanding of the model's workings, this seemed peculiar. After all, the model adjusts coefficients based on ratings with various features. It doesn't seem to matter whether the distance to the city center is 3 km or 2 km, for example. Perhaps my understanding is incorrect, and it will deepen in the next machine learning module. For now, I had to correct the error and accept a slightly worse result.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -232,7 +232,7 @@ Finally, an interesting discovery was made: a small error in the city center's c
 4. An unexpected revelation (hinted at during the introductory webinar by the mentor) was the interaction between data normalization and standardization methods and the machine learning model RandomForestRegressor. Using these methods either worsened the MAPE metric or improved it slightly but distorted the predictions obtained. Consequently, the use of these methods had to be abandoned in this project.  
 5. The real value of the project lies in its implementation on the Kaggle platform within the competitive environment for a high rating. Students gained a tangible tool for enhancing their Data Scientist skills and, consequently, increased chances of employment through participation in real and engaging competitions.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/README.md#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
