@@ -1,6 +1,6 @@
 # Задание 1. Предсказание биологического ответа молекул.
 
-[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#task-1-) :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/README.md#task-1-predicting-the-biological-response-of-molecules) :us:  
 
 ## Оглавление   
 [1. Описание задания](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)  
