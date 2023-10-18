@@ -116,14 +116,14 @@ For exploratory analysis, it is allowed to use any of the studied visualization 
 
 Apart from that, it is allowed to use only the variables, data structures, loops, functions, libraries, methods, rules, and standards studied in the course, including PEP 8.  
 
-**Quality Metric**     
+**Quality Metric**  
 - A student can earn a maximum of 30 points for answering all control questions on the SkillFactory platform.  
 - Additional 10 points are awarded for the exploritary analysis: 8 points for the main analysis and 2 extra points for verifying own hypotheses.  
 
 Total: 40 points.  
 To successfully complete the project, one needs to earn at least 21 points.  
 
-**Skills to Practice**      
+**Skills to Practice**  
 - Consolidating the sequence of data preprocessing stages.  
 - Enhancing the use of learned methods for data transformation.  
 - Deepening knowledge of visualization library methods and various types of graphs for exploring data dependencies.  
