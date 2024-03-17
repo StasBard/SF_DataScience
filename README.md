@@ -10,6 +10,7 @@
 * [Project 5. Taxi trip duration forecast](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
 * [Project 6. Online gift shop customer segmentation](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
 * [Project 7. Diploma. Property price prediction for Real Estate Agency](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7)
+* [Project 8. Predicting stock prices with deep neural network](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_8)
 
 ## Tasks
 * [Task 0. Data visualisation](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
@@ -28,6 +29,7 @@
 * [Проект 5. Предсказание времени поездки на такси](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
 * [Проект 6. Сегментация клиентов онлайн-магазина подарков](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
 * [Проект 7. Дипломный. Прогнозирование стоимости жилья для агентства недвижимости](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7)
+* [Проект 8. Предсказание цены акции с помощью глубокой нейронной сети](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_8)
 
 ## Задания
 * [Задание 0. Визуализация данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_0)  
