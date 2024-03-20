@@ -63,8 +63,8 @@
 1. Проведена доработка изначального кода, использованы более эффективные, безопасные методы и функции; модель способна работать с неограниченным числом признаков (задается в конфигурационной переменной вначале).  
 2. Показано, впрочем, что увеличение количества признаков и использование технических индикаторов на дневных биржевых данных не приводит к повышению точности прогноза - снижению `MSE`. Однако на внутридневных данных (15-минутные данные) это оказывает желаемый эффект. Сравнение по величине потери приведено в таблице ниже.  
 
-| Даные          | Интервал | Признаки | Величина потери                    |
-|---------------|----------|---------:|-------------------------------|
+| Даные          | Интервал | Признаки | Величина потери              |
+|:--------------|:---------|---------:|:------------------------------|
 | Alpha Vantage | дневные    |        1 | train:0.006102, test:0.000972 |
 | Автор        | дневные    |       10 | train:0.009436, test:0.001201 |
 | Автор        | 15-мин.  |       10 | **train:0.003220, test:0.000688** |  
@@ -156,7 +156,7 @@ As a result, instead of one feature (closing prices) we used ten: OHLC prices, t
 2. It is shown, however, that the increase in the number of features and the use of technical indicators on daily stock exchange data does not lead to an increase in the accuracy of the forecast - to a decrease in `MSE`. However, on intraday data (15-minute data) it has the desired effect. The comparison in terms of loss value is summarized in the table below.  
 
 | Data          | Interval | Features | Loss value                    |
-|---------------|----------|---------:|-------------------------------|
+|:--------------|:---------|---------:|:------------------------------|
 | Alpha Vantage | daily    |        1 | train:0.006102, test:0.000972 |
 | Author        | daily    |       10 | train:0.009436, test:0.001201 |
 | Author        | 15-min.  |       10 | **train:0.003220, test:0.000688** |  
