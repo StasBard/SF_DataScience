@@ -17,12 +17,13 @@
 
 
 ### 2. Решаемая задача   
-В конце свой работы эксперты Alpha Vantage предложили усовершенствовать их прогноз за счет подачи на вход модели дополнительных данных, например, значений технических индикаторов. В нашем проекте мы решили пойти этим путем и добавить в исходные данные цену открытия, максимальную и минимальную цены акции (OHL), объем торгов, а также значения двух технических индикаторов - Полос Боллинжера и Стохастика. Это позволит проверить, как влияет увеличение количества признаков на точность предсказания.  
+В конце свой работы эксперты Alpha Vantage предложили усовершенствовать их прогноз за счет подачи на вход модели дополнительных данных, например, значений технических индикаторов. В нашем проекте мы решили пойти этим путем и добавить в исходные данные цену открытия, максимальную и минимальную цены акции (OHL), объем торгов, а также значения двух технических индикаторов - Полос Боллинжера и Стохастика. Это позволит проверить, как влияет увеличение количества признаков на точность предсказания. Кроме этого, мы также попробуем заменить дневные данные на внутридневные (15-минутный интервал), чтобы оценить, какие из них позволяют добиться лучшей точности прогнозирования.  
 
 **Условия решения задачи:**  
 1. Добавить (сгенерировать) дополнительные признаки в исходные данные.  
 2. Переписать части кода для работы не с одним, а со множеством признаков (10).  
-3. Обучить LSTM-модель и оценить точность ее прогноза.
+3. Обучить LSTM-модель и оценить точность ее прогноза.  
+4. Сравнить качество предсказания модели на дневных и 15-мин. данных.  
 
 **Метрика качества**     
 Для сравнения с результами первоначальной работы, будет использоваться та же самая метрика - `MSE`.  
@@ -42,7 +43,7 @@
 
 Также было принято решение отказаться и от данных технических индикаторов, получаемых по API, поскольку они в свою очередь тоже базируются на скорректированных данных. Вместо это мы вручную рассчитали значения выбранных индикаторов в соответствующих функциях.  
 
-В итоге, вместо одного признака (цены закрытия) мы использовали десять: цены OHLC, объем торгов, значения трех полос Боллинжера и двух линий Стохастика.
+В итоге, вместо одного признака (цены закрытия) мы использовали десять: цены OHLC, объем торгов, значения трех полос Боллинжера и двух линий Стохастика. А также провели эксперименты как с дневными данными, так и с 15-минутными.  
   
 :arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -60,10 +61,17 @@
 
 ### 5. Результаты  
 1. Проведена доработка изначального кода, использованы более эффективные, безопасные методы и функции; модель способна работать с неограниченным числом признаков (задается в конфигурационной переменной вначале).  
-2. Показано, впрочем, что увеличение количества признаков и использование технических индикаторов на дневных биржевых данных не приводит к повышению точности прогноза - снижению `MSE`. Однако на внутридневных данных (15-минутные данные) это оказывает желаемый эффект (это мы происллюстрируем в следующем проекте).  
+2. Показано, впрочем, что увеличение количества признаков и использование технических индикаторов на дневных биржевых данных не приводит к повышению точности прогноза - снижению `MSE`. Однако на внутридневных данных (15-минутные данные) это оказывает желаемый эффект. Сравнение по величине потери приведено в таблице ниже.  
+
+| Даные          | Интервал | Признаки | Величина потери                    |
+|---------------|----------|---------:|-------------------------------|
+| Alpha Vantage | дневные    |        1 | train:0.006102, test:0.000972 |
+| Автор        | дневные    |       10 | train:0.009436, test:0.001201 |
+| Автор        | 15-мин.  |       10 | **train:0.003220, test:0.000688** |  
+
 3. С помощью интерактивных свечных графиков Plotly наглядно удалось показать, что несмотря на низкие значения потерь при обучении и тестировании модели, ее прогнозы не могут быть использованы в реальной торговли без риска потери депозита.  
 4. Углублены навыки работы с фреймворком PyTorch и в частности с LTSM-сетью.  
-5. Исполняемые код в формате Jupiter Notebook с дневными биржевыми данными доступен в [авторском репозитории GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb).
+5. Исполняемый код доступен в авторском репозитории GitHub в формате Jupiter Notebook: с [дневными биржевыми данными](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [с 15-мин. данными](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
 
 :arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -101,12 +109,13 @@ Continuation of [Alpha Vantage experts' work](https://www.alphavantage.co/stock-
 
 
 ### 2. Problem Statement   
-At the end of their work, Alpha Vantage experts suggested to improve their forecast by feeding additional data, for example, values of technical indicators, to the model input. In our project we decided to follow this way and add the opening price, maximum and minimum share prices (OHL), trading volume, as well as the values of two technical indicators - Bollinger Bands and Stochastics - to the input data. This will allow us to check the effect of increasing the number of features on prediction accuracy.  
+At the end of their work, Alpha Vantage experts suggested to improve their forecast by feeding additional data, for example, values of technical indicators, to the model input. In our project we decided to follow this way and add the opening price, maximum and minimum share prices (OHL), trading volume, as well as the values of two technical indicators - Bollinger Bands and Stochastics - to the input data. This will allow us to check the effect of increasing the number of features on prediction accuracy. In addition, we will also try replacing daily data with intraday data (15-minute interval) to evaluate which ones achieve better forecasting accuracy.  
 
 **Problem Solving Conditions**  
 1. Add (generate) additional features to the original data.  
 2. Rewrite parts of the code to work not with one, but with multiple features (10).  
 3. Train the LSTM model and evaluate the accuracy of its prediction.  
+4. Compare the quality of model prediction on daily and 15-min data.  
 
 **Quality Metric**     
 The same metric, `MSE`, will be used for comparison with the results of the original work.  
@@ -126,7 +135,7 @@ The original project used stock exchange data on daily closing prices of IBM sha
 
 We also decided to abandon the data of technical indicators received via API, as they are also based on adjusted data. Instead, we manually calculated the values of the selected indicators in the corresponding functions.  
 
-As a result, instead of one feature (closing prices) we used ten: OHLC prices, trading volume, values of three Bollinger bands and two Stochastic lines.
+As a result, instead of one feature (closing prices) we used ten: OHLC prices, trading volume, values of three Bollinger bands and two Stochastic lines. And we also did experiments with both daily data and 15-minute data.  
   
 :arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/README.md#table-of-contents)
 
@@ -144,10 +153,17 @@ As a result, instead of one feature (closing prices) we used ten: OHLC prices, t
 
 ### 5. Results  
 1. The original code was improved, more efficient, safer methods and functions were used; the model is able to work with an unlimited number of features (set in the configuration variable at the beginning).  
-2. It is shown, however, that the increase in the number of features and the use of technical indicators on daily stock exchange data does not lead to an increase in the accuracy of the forecast - to a decrease in `MSE`. However, on intraday data (15-minute data) it has the desired effect (we will illustrate this in the next project).  
+2. It is shown, however, that the increase in the number of features and the use of technical indicators on daily stock exchange data does not lead to an increase in the accuracy of the forecast - to a decrease in `MSE`. However, on intraday data (15-minute data) it has the desired effect. The comparison in terms of loss value is summarized in the table below.  
+
+| Data          | Interval | Features | Loss value                    |
+|---------------|----------|---------:|-------------------------------|
+| Alpha Vantage | daily    |        1 | train:0.006102, test:0.000972 |
+| Author        | daily    |       10 | train:0.009436, test:0.001201 |
+| Author        | 15-min.  |       10 | **train:0.003220, test:0.000688** |  
+
 3. With the help of Plotly interactive candlestick charts we have clearly managed to show that despite the low loss values when training and testing the model, its forecasts cannot be used in real trading without risk of deposit loss.  
 4. The skills of working with PyTorch framework and in particular with LTSM-network were deepened.  
-5. Executable code in Jupiter Notebook format with daily stock data is available in [author's GitHub repository](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb).
+5. Executable code is available in the author's GitHub repository in Jupiter Notebook format: with [daily stock data](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [15-min. data](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
 
 :arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/README.md#table-of-contents)
 
