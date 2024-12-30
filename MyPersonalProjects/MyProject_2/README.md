@@ -79,7 +79,7 @@
 4. Проведено ознакомление с ресурсом OpenStreetMap и осуществлена его интеграция в проект через библиотеку Plotly для наглядного отображения выводов исследования.  
 5. Дополнительно решена DS-задача по предсказанию пола участников, которые указали его в анкете как 'X' или не указали вовсе. Такая задача руководством Ателье не ставилась. С уважением права людей не указывать свой пол (тем более, что база обезличена), автор позволил себе вывести проект за рамки компетенций Data Analyst и решить задачу классификации.  
 6. Из 3-х рассмотренных алгоритмов: Logistic Regression, Decision Tree Classifier и Random Forest Classifier с применением GridSearch CV - наилучших показателей целефых метрик удалось достичь с помощью Decision Tree Classifier. `precision` составила 75%, а `recall` - 99%, что позволило сделать вывод, то примерно 75% участников, не указавших свой пол, это - мужчины, а 25% - женщины.  
-7. Результаты исследования оформлены в [pdf-презентацию](), и исполняемый код доступен в авторском репозитории GitHub в формате [Jupiter Notebook]().
+7. Результаты исследования оформлены в [pdf-презентацию](), и исполняемый код доступен в авторском репозитории GitHub в формате [Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/Pignon.ipynb).
 
 :arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
@@ -182,7 +182,7 @@ In order to visualize the findings on OpenStreetMaps, open databases of Nantes c
 4. Familiarized with the OpenStreetMap resource and integrated it into the project through the Plotly library to visualize the findings of the study.  
 5. Additionally, the DS-task of predicting the gender of participants who indicated it in the questionnaire as 'X' or did not indicate it at all was solved. Such a task was not set by the Atelier management. Respecting the right of people not to specify their gender (especially since the database is anonymized), the author took the liberty of taking the project beyond the competence of Data Analyst and solving the classification task.  
 6. Of the 3 algorithms considered: Logistic Regression, Decision Tree Classifier and Random Forest Classifier using GridSearch CV - the best performance of the target metrics was achieved with Decision Tree Classifier. The `precision' was 75% and `recall' was 99%, which led to the conclusion that approximately 75% of the participants who did not specify their gender were male and 25% were female.  
-7. The results of the study are organized in a [pdf presentation]() and the executable code is available in the author's GitHub repository in [Jupiter Notebook]() format.
+7. The results of the study are organized in a [pdf presentation]() and the executable code is available in the author's GitHub repository in [Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/Pignon.ipynb) format.
 
 :arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
