@@ -1,6 +1,6 @@
 # Проект 2. Анализ базы данных Ателье Пиньон.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/README.md#project-2-analyze-atelier-pignons-database) :us:  
 [Aller au Français]() :fr:  
 
 ## Оглавление  
@@ -206,7 +206,7 @@ If you find the project information interesting and useful, I would appreciate i
 
 # Projet 2 : Analyse de la base de données de l'Atelier du Pignon.
 
-[Go to English]() :us:  
+[Go to English](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/README.md#project-2-analyze-atelier-pignons-database) :us:  
 [К описанию на русском]() :ru:  
 
 ## Table des matières  
