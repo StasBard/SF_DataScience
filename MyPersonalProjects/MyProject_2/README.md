@@ -4,17 +4,17 @@
 [Aller au Français](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#projet-2--analyse-de-la-base-de-donn%C3%A9es-de-latelier-du-pignon) :fr:  
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Решаемая задача]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результаты]()  
-[6. Выводы]()  
+[1. Описание проекта](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)  
+[2. Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)  
+[3. Краткая информация о данных](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
+[4. Этапы работы над проектом](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)  
+[5. Результаты](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)  
+[6. Выводы](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)  
 
 ### 1. Описание проекта    
 Ассоциация по ремонту велосипедов города Нанта Atelier du Pignon, предоставляющая помощь, инструменты и запасные части для самостоятельного ремонта и обслуживания велосипедов в обмен на годовой членский взнос, желает проанализировать состав участников ателье. **Проект выполняется на добровольной и безвозмездной основе**.  
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 2. Решаемая задача   
@@ -39,7 +39,7 @@
 - использование интерактивных Choropleth-карт библиотеки Plotly для представления данных на карте города;  
 - знакомство и использование OpenStreetMap и открытых баз данных администрации города.  
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 3. Краткая информация о данных  
@@ -58,7 +58,7 @@
 
 С целью наглядной иллюстрации выводов на картах OpenStreetMaps в проект добавлены открытые базы данных администрации города Нант с названиями, почтовыми индексами и GPS-координатами границ коммун. Базы данных сохранены в папке "data/".  
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 4. Этапы работы над проектом  
@@ -69,7 +69,7 @@
 5. Решение задачи классификации несколькими моделями и выбор наилучней по сравнению метрик; формирование прогноза.  
 6. Сведение результатов проекта в pdf-отчет и презентация руководству Ателье.  
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 5. Результаты  
@@ -81,7 +81,7 @@
 6. Из 3-х рассмотренных алгоритмов: Logistic Regression, Decision Tree Classifier и Random Forest Classifier с применением GridSearch CV - наилучших показателей целефых метрик удалось достичь с помощью Decision Tree Classifier. `precision` составила 75%, а `recall` - 99%, что позволило сделать вывод, то примерно 75% участников, не указавших свой пол, это - мужчины, а 25% - женщины.  
 7. Результаты исследования оформлены в [pdf-презентацию](), и исполняемый код доступен в авторском репозитории GitHub в формате [Jupiter Notebook]().
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### 6. Выводы  
@@ -94,7 +94,7 @@
 
 В дальнейшем было бы интересно проследить эволюцию состава участников, как мы это описали в 3-м пункте, выполняя анализ данных на ежегодной основе. Так или иначе, данный анализ, выполненный автором (одним из участников Ателье) **на добровольной основе**, уже позволил лучше понять аудиторию Ателье. 
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по проекту представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!
