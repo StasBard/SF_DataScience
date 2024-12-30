@@ -107,12 +107,12 @@
 [К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%B5-%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD) :ru:  
 
 ## Table of Contents
-[1. Project Description]()  
-[2. Problem Statement]()  
-[3. Brief Data Overview]()  
-[4. Project Work Stages]()  
-[5. Results]()  
-[6. Conclusions]()  
+[1. Project Description](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#1-project-description)  
+[2. Problem Statement](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#2-problem-statement)  
+[3. Brief Data Overview](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#3-brief-data-overview)  
+[4. Project Work Stages](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#4-project-work-stages)  
+[5. Results](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#5-results)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#6-conclusions)  
 
 ### 1. Project Description    
 The Atelier du Pignon, the bicycle repair association of the city of Nantes, which provides assistance, tools and spare parts for self-repair and maintenance of bicycles in exchange for an annual membership fee, wishes to analyze the composition of atelier members. **The project is carried out on a voluntary and pro bono basis**.  
@@ -210,12 +210,12 @@ If you find the project information interesting and useful, I would appreciate i
 [К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%B5-%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD) :ru:  
 
 ## Table des matières  
-[1. Description du projet]()  
-[2. Problème à résoudre]()  
-[3. Informations succinctes sur les données]()  
-[4. Étapes du projet]()  
-[5. Résultats]()  
-[6. Conclusions]()  
+[1. Description du projet](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#1-description-du-projet)  
+[2. Problème à résoudre](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#2-probl%C3%A8me-%C3%A0-r%C3%A9soudre)  
+[3. Informations succinctes sur les données](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#3-informations-succinctes-sur-les-donn%C3%A9es)  
+[4. Étapes du projet](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#4-%C3%A9tapes-du-projet)  
+[5. Résultats](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#5-r%C3%A9sultats)  
+[6. Conclusions](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#6-conclusions-1)  
 
 ### 1. Description du projet  
 L’association de réparation de vélos de Nantes, Atelier du Pignon, qui offre assistance, outils et pièces détachées pour l’entretien et la réparation autonome de vélos en échange d’une cotisation annuelle, souhaite analyser la composition de ses membres. **Ce projet est réalisé sur une base volontaire et bénévole.**  
