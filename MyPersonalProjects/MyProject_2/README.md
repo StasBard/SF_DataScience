@@ -1,7 +1,7 @@
 # Проект 2. Анализ базы данных Ателье Пиньон.
 
 [Go to English](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/README.md#project-2-analyze-atelier-pignons-database) :us:  
-[Aller au Français]() :fr:  
+[Aller au Français](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#projet-2--analyse-de-la-base-de-donn%C3%A9es-de-latelier-du-pignon) :fr:  
 
 ## Оглавление  
 [1. Описание проекта]()  
@@ -103,8 +103,8 @@
 
 # Project 2: Analyze Atelier Pignon's database.
 
-[Aller au Français]() :fr:  
-[К описанию на русском]() :ru:  
+[Aller au Français](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#projet-2--analyse-de-la-base-de-donn%C3%A9es-de-latelier-du-pignon) :fr:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%B5-%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD) :ru:  
 
 ## Table of Contents
 [1. Project Description]()  
@@ -117,7 +117,7 @@
 ### 1. Project Description    
 The Atelier du Pignon, the bicycle repair association of the city of Nantes, which provides assistance, tools and spare parts for self-repair and maintenance of bicycles in exchange for an annual membership fee, wishes to analyze the composition of atelier members. **The project is carried out on a voluntary and pro bono basis**.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 ### 2. Problem Statement   
@@ -142,7 +142,7 @@ To compare the prediction quality of the models, we will use two metrics: `preci
 - using Plotly library's interactive Choropleth-maps to present data on a city map;  
 - familiarization and use of OpenStreetMap and open databases of the city administration.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 ### 3. Brief Data Overview  
@@ -161,7 +161,7 @@ In addition to the ID column, the database contains the following attributes:
 
 In order to visualize the findings on OpenStreetMaps, open databases of Nantes city administration with names, postal codes and GPS coordinates of commune boundaries were added to the project. The databases are saved in the folder “data/”.  
   
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 ### 4. Project Work Stages  
@@ -172,7 +172,7 @@ In order to visualize the findings on OpenStreetMaps, open databases of Nantes c
 5. Solving a classification problem with several models and selecting the best metric to compare; generating a prediction.  
 6. Summarizing the results of the project into a pdf-report and presentation to the Atelier management.  
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 ### 5. Results  
@@ -184,7 +184,7 @@ In order to visualize the findings on OpenStreetMaps, open databases of Nantes c
 6. Of the 3 algorithms considered: Logistic Regression, Decision Tree Classifier and Random Forest Classifier using GridSearch CV - the best performance of the target metrics was achieved with Decision Tree Classifier. The `precision' was 75% and `recall' was 99%, which led to the conclusion that approximately 75% of the participants who did not specify their gender were male and 25% were female.  
 7. The results of the study are organized in a [pdf presentation]() and the executable code is available in the author's GitHub repository in [Jupiter Notebook]() format.
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 ### 6. Conclusions  
@@ -197,7 +197,7 @@ We analyzed the Atelier du Pignon database and, despite the relatively small num
 
 In the future, it would be interesting to trace the evolution of the composition of the participants as we described in paragraph 3 by analyzing the data on an annual basis. Anyway, this analysis, performed by the author (one of the Atelier participants) **on a voluntary basis**, has already provided a better understanding of the Atelier's audience. 
 
-:arrow_up: [Back to Table of Contents]()
+:arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-of-contents)
 
 
 If you find the project information interesting and useful, I would appreciate it if you could give my repository and profile stars ⭐️⭐️⭐️!
@@ -207,7 +207,7 @@ If you find the project information interesting and useful, I would appreciate i
 # Projet 2 : Analyse de la base de données de l'Atelier du Pignon.
 
 [Go to English](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/README.md#project-2-analyze-atelier-pignons-database) :us:  
-[К описанию на русском]() :ru:  
+[К описанию на русском](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B1%D0%B0%D0%B7%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%B5-%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD) :ru:  
 
 ## Table des matières  
 [1. Description du projet]()  
@@ -220,7 +220,7 @@ If you find the project information interesting and useful, I would appreciate i
 ### 1. Description du projet  
 L’association de réparation de vélos de Nantes, Atelier du Pignon, qui offre assistance, outils et pièces détachées pour l’entretien et la réparation autonome de vélos en échange d’une cotisation annuelle, souhaite analyser la composition de ses membres. **Ce projet est réalisé sur une base volontaire et bénévole.**  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 ### 2. Problème à résoudre  
@@ -245,7 +245,7 @@ Pour évaluer la qualité des prédictions des modèles, deux métriques seront 
 - Cartographie interactive via Plotly et OpenStreetMap pour représenter les données sur une carte ;  
 - Familiarisation avec les bases de données ouvertes de l’administration municipale.  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 ### 3. Informations succinctes sur les données  
@@ -264,7 +264,7 @@ Outre l’ID, la base comprend les colonnes suivantes :
 
 Pour illustrer les conclusions sur une carte via OpenStreetMap, des bases ouvertes de la municipalité de Nantes, contenant les noms, codes postaux et coordonnées GPS des communes, ont été ajoutées au projet dans le dossier "data/".  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 ### 4. Étapes du projet  
@@ -275,7 +275,7 @@ Pour illustrer les conclusions sur une carte via OpenStreetMap, des bases ouvert
 5. Résolution d’une problématique de classification avec plusieurs modèles, choix du meilleur selon les métriques, et génération de prédictions ;  
 6. Compilation des résultats dans un rapport PDF et présentation à la direction de l’Atelier.  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 ### 5. Résultats  
@@ -286,7 +286,7 @@ Pour illustrer les conclusions sur une carte via OpenStreetMap, des bases ouvert
 5. Une tâche supplémentaire a été réalisée pour prédire le genre des membres qui n’ont pas renseigné cette donnée.  
 6. Parmi les modèles testés (Logistic Regression, Decision Tree Classifier et Random Forest Classifier), le Decision Tree Classifier a obtenu les meilleurs scores avec `precision` de 75 % et `recall` de 99 %.  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 ### 6. Conclusions  
@@ -299,7 +299,7 @@ Nous avons analysé la base de données d'Atelier du Pignon pour l'année 2023-2
 
 À l'avenir, il serait intéressant de suivre l'évolution de la composition des membres, comme décrit au point 3, en réalisant une analyse annuelle des données. Quoi qu'il en soit, cette analyse, réalisée par l'auteur (lui-même membre de l'Atelier) **sur une base bénévole**, a déjà permis de mieux comprendre le public de l'Atelier.  
 
-:arrow_up: [Retour à la table des matières]()  
+:arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
 
 Si les informations sur ce projet vous semblent intéressantes et utiles, je vous serais reconnaissant de marquer mon dépôt et mon profil avec des étoiles ⭐️⭐️⭐️ !
