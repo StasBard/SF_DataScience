@@ -78,7 +78,7 @@
 3. Улучшены навыки работы с библиотекой Matplotlib, отработаны ранее не использовавшиеся методы.  
 4. Проведено ознакомление с ресурсом OpenStreetMap и осуществлена его интеграция в проект через библиотеку Plotly для наглядного отображения выводов исследования.  
 5. Дополнительно решена DS-задача по предсказанию пола участников, которые указали его в анкете как 'X' или не указали вовсе. Такая задача руководством Ателье не ставилась. С уважением права людей не указывать свой пол (тем более, что база обезличена), автор позволил себе вывести проект за рамки компетенций Data Analyst и решить задачу классификации.  
-6. Из 3-х рассмотренных алгоритмов: Logistic Regression, Decision Tree Classifier и Random Forest Classifier с применением GridSearch CV - наилучших показателей целефых метрик удалось достичь с помощью Decision Tree Classifier. `precision` составила 75%, а `recall` - 99%, что позволило сделать вывод, то примерно 75% участников, не указавших свой пол, это - мужчины, а 25% - женщины.  
+6. Из 3-х рассмотренных алгоритмов: Logistic Regression, Decision Tree Classifier и Random Forest Classifier с применением GridSearch CV - наилучших показателей целевых метрик удалось достичь с помощью Decision Tree Classifier. `precision` составила 75%, а `recall` - 99%, что позволило сделать вывод, то примерно 75% участников, не указавших свой пол, это - мужчины, а 25% - женщины.  
 7. Результаты исследования оформлены в [pdf-презентацию](), и исполняемый код доступен в авторском репозитории GitHub в формате [Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/Pignon.ipynb).
 
 :arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
@@ -283,8 +283,8 @@ Pour illustrer les conclusions sur une carte via OpenStreetMap, des bases ouvert
 2. La dynamique des inscriptions d’août à novembre 2024 a été comparée à la même période en 2023.  
 3. Les compétences en Matplotlib ont été renforcées avec l’utilisation de méthodes inédites.  
 4. OpenStreetMap a été intégré au projet via Plotly pour une visualisation claire des résultats.  
-5. Une tâche supplémentaire a été réalisée pour prédire le genre des membres qui n’ont pas renseigné cette donnée.  
-6. Parmi les modèles testés (Logistic Regression, Decision Tree Classifier et Random Forest Classifier), le Decision Tree Classifier a obtenu les meilleurs scores avec `precision` de 75 % et `recall` de 99 %.  
+5. En outre, la tâche DS consistant à prédire le genre des participants qui l'ont indiqué dans le questionnaire en tant que « X » ou qui ne l'ont pas indiqué du tout a été résolue. Cette tâche n'a pas été définie par la direction de l'Atelier. Respectant le droit des personnes à ne pas spécifier leur genre (d'autant plus que la base de données est anonymisée), l'auteur s'est autorisé à porter le projet au-delà des compétences de l'analyste de données et à résoudre la tâche de classification.
+6. Parmi les modèles testés (Logistic Regression, Decision Tree Classifier et Random Forest Classifier) en utilisant GridSearch CV, le Decision Tree Classifier a obtenu les meilleurs scores avec `precision` de 75 % et `recall` de 99 %, ce qui permet de conclure qu'environ 75 % des participants qui n'ont pas précisé leur genre étaient des hommes et 25 % des femmes. 7. Les résultats de l'étude sont présentés au [format pdf]() et le code exécutable est disponible dans le dépôt GitHub de l'auteur au format [Jupiter Notebook](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_2/Pignon.ipynb). 
 
 :arrow_up: [Retour à la table des matières](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2#table-des-mati%C3%A8res)  
 
