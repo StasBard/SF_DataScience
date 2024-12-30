@@ -71,7 +71,7 @@
 
 3. С помощью интерактивных свечных графиков Plotly наглядно удалось показать, что несмотря на низкие значения потерь при обучении и тестировании модели, ее прогнозы не могут быть использованы в реальной торговли без риска потери депозита.  
 4. Углублены навыки работы с фреймворком PyTorch и в частности с LTSM-сетью.  
-5. Исполняемый код доступен в авторском репозитории GitHub в формате Jupiter Notebook: с [дневными биржевыми данными](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [с 15-мин. данными](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
+5. Исполняемый код доступен в авторском репозитории GitHub в формате Jupiter Notebook: с [дневными биржевыми данными](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [с 15-мин. данными](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
 
 :arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5) 
 
@@ -163,7 +163,7 @@ As a result, instead of one feature (closing prices) we used ten: OHLC prices, t
 
 3. With the help of Plotly interactive candlestick charts we have clearly managed to show that despite the low loss values when training and testing the model, its forecasts cannot be used in real trading without risk of deposit loss.  
 4. The skills of working with PyTorch framework and in particular with LTSM-network were deepened.  
-5. Executable code is available in the author's GitHub repository in Jupiter Notebook format: with [daily stock data](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [15-min. data](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_8/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
+5. Executable code is available in the author's GitHub repository in Jupiter Notebook format: with [daily stock data](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/Predict_IBM_Stock_Prices_with_LSTM_daily_data.ipynb), [15-min. data](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/Predict_IBM_Stock_Prices_with_LSTM_intraday_data.ipynb).
 
 :arrow_up: [Back to Table of Contents](https://github.com/StasBard/SF_DataScience/blob/master/MyPersonalProjects/MyProject_1/README.md#table-of-contents)  
 
