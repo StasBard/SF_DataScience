@@ -1,6 +1,6 @@
 # My personal Data Science projects
-* [MyProject 1. Predicting stock prices with deep neural network]()  
-* [MyProject 2. Voluntary. Analysis of the Atelier Pignon database]()
+* [MyProject 1. Predicting stock prices with deep neural network](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_1)  
+* [MyProject 2. Voluntary. Analysis of the Atelier Pignon database](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2)
 
 Перейти к информации [на русском языке](https://github.com/StasBard/SF_DataScience?tab=readme-ov-file#%D0%BC%D0%BE%D0%B8-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-data-science-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B) :ru: 
 
@@ -20,10 +20,10 @@
 
 ---
 # Мои личные Data Science проекты
-* [МойПроект 1. Предсказание цены акции с помощью глубокой нейронной сети]()
-* [МойПроект 2. Добровольный. Анализ базы данных Ателье Пиньон]()
+* [МойПроект 1. Предсказание цены акции с помощью глубокой нейронной сети](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_1)
+* [МойПроект 2. Добровольный. Анализ базы данных Ателье Пиньон](https://github.com/StasBard/SF_DataScience/tree/master/MyPersonalProjects/MyProject_2)
 
-[Go to English](https://github.com/StasBard/SF_DataScience#my-data-science-projects-and-solved-tasks-completed-during-skillfactory-data-science-course) :us: 
+[Go to English](https://github.com/StasBard/SF_DataScience?tab=readme-ov-file#my-personal-data-science-projects) :us: 
 
 # Data Science Проекты, выполненные в рамках [SkillFactory DS-курса](https://skillfactory.ru/data-science-specialization)
 ## Проекты
